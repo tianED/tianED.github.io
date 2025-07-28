@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Hiking
+description: 虽然但是，我是平底足
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Never be younger than now
 giscus_comments: true
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Photograph
+description: 审美有待提高
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: Never be younger than now
 ---
 
 Every project has a beautiful feature showcase page.
