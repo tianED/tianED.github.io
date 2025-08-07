@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tianED.github.io/sitemap.xml
+Sitemap: https://tiantan.xyz/sitemap.xml
