@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-8-6 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Tian’s recent paper on [10-year wave-current coupled modelling](https://doi.org/10.1016/j.apor.2025.104730) has been available online in Applied Ocean Research.
